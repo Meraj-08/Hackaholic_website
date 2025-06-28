@@ -17,6 +17,9 @@ Designed for scale and impact, the platform has:
 
 ---
 
+## 🔗 Live Demo  
+👉 [https://hackaholic3.0.com/](https://hack-o-holic-3-0-i72w.onrender.com/)
+
 ## 📽️ UI Preview  
 
 | ![](assetes/1.png) | ![](assetes/2.png) |
