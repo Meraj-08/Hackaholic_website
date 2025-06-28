@@ -1,16 +1,39 @@
-# Hack-O-Holic 3.0 - Hackathon Website
+# ⚙️ Hack-O-Holic 3.0 - Hackathon Website  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org)  
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org)  
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://mongodb.com)  
 
-A responsive MERN stack website for the Hack-O-Holic 3.0 hackathon organizing committee. This website is designed to attract participants, provide information about the hackathon, and facilitate registration.
+---
 
-## Features
+## 📌 Overview  
 
-- **Responsive Design**: Fully responsive website that works on all devices
-- **Background Video Loop**: Multiple background videos that play in a loop
-- **Scrollable Content**: Content scrolls over the fixed background videos
-- **Modern UI/UX**: Beautiful and intuitive user interface
-- **Hackathon Timeline**: Visual representation of the three hackathon rounds
-- **Registration System**: Multi-step registration form for participants
-- **Contact Form**: Easy way for visitors to get in touch
+**Hack-O-Holic 3.0** is a modern full-stack hackathon platform built using the MERN stack.  
+It’s used to manage registrations, showcase events, and provide participants with live schedules and communication.  
+
+🚀 **2000+ registrations**  
+📜 **100+ teams awarded with certificates**  
+🕒 **Live timeline and event schedule built into the website**
+
+---
+
+## 📽️ UI Preview  
+
+| ![](assets/1.png) | ![](assets/2.png) |
+|-------------------|-------------------|
+| ![](assets/3.png) | ![](assets/4.png) |
+
+
+## 🚀 Features  
+
+- 🖥️ Fully responsive layout  
+- 🎥 Background video loop support  
+- 📅 Event timeline with Framer Motion animations  
+- ✍️ Multi-step registration with form validation  
+- 📧 Contact form via EmailJS   
+- 📜 Certificate-ready system  
+
+---
 
 ## Pages
 
@@ -118,5 +141,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Designed and developed for the Hack-O-Holic 3.0 Hackathon Organizing Committee
+- Designed and developed for the Hack-O-Holic 3.0 Hackathon Technical Committee
 - Built with React.js and Node.js
