@@ -1,17 +1,19 @@
 # ⚙️ Hack-O-Holic 3.0 - Hackathon Website  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org)  [![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org)  [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://mongodb.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org)  [![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org)  [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://mongodb.com) 
 
 ---
 
 ## 📌 Overview  
 
-**Hack-O-Holic 3.0** is a modern full-stack hackathon platform built using the MERN stack.  
-It’s used to manage registrations, showcase events, and provide participants with live schedules and communication.  
+Welcome to **Hack-O-Holic 3.0** — the official hackathon platform powering one of the most exciting tech events of the year!  
+Built with the **MERN stack**, this platform delivers a sleek, responsive interface for managing everything from participant onboarding to final award ceremonies.
 
-🚀 **2000+ registrations**  
-📜 **100+ teams awarded with certificates**  
-🕒 **Live timeline and event schedule built into the website**
+Designed for scale and impact, the platform has:
+
+- 💥 Attracted over **2000+ participants**  
+- 🎓 Issued verified certificates to **100+ top-performing teams**  
+- 📅 Hosted a live-updating **event timeline and multi-phase schedule**  
+- 🛠️ Enabled smooth coordination between organizers and participants
 
 ---
 
