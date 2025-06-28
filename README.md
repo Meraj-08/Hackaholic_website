@@ -1,8 +1,6 @@
 # ⚙️ Hack-O-Holic 3.0 - Hackathon Website  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org)  
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org)  
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://mongodb.com)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org)  [![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org)  [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://mongodb.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
@@ -19,9 +17,9 @@ It’s used to manage registrations, showcase events, and provide participants w
 
 ## 📽️ UI Preview  
 
-| ![](assets/1.png) | ![](assets/2.png) |
+| ![](assetes/1.png) | ![](assetes/2.png) |
 |-------------------|-------------------|
-| ![](assets/3.png) | ![](assets/4.png) |
+| ![](assetes/3.png) | ![](assetes/4.png) |
 
 
 ## 🚀 Features  
